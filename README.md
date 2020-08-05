@@ -1,7 +1,6 @@
 # Welcome! 
 
-This repo has information for organizing R-Ladies Seattle. It is under construction. 
-Pretty soon we'll have more info on how you can get involved in R-Ladies Seattle.
+This repo has information for organizing R-Ladies Seattle. It is under construction. If you have suggestions for things you want to add to this repo, either make a pull request or add it as an issue.
 
 # Events in 2020
 
@@ -10,7 +9,7 @@ There is an [issue](https://github.com/rladies-seattle/rladies-seattle-organizin
 
 # How to
 
-* How to get involved with R-Ladies Seattle.
-* How to plan an event.
+* How to [get involved](how-to-get-involved.md) with R-Ladies Seattle.
+* How to [run an event](how-to-run-an-event.md).
 * How to update our website.
 * How to manage the Twitter account.
