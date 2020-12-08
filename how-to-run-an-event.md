@@ -56,6 +56,7 @@ Begin the meeting with a few intro slides. First, welcome attendees, state the m
 
 **2 months or more before the event**
 
+- [ ] Post your idea in an issue on this repo. Use the "Idea for an R-Ladies Seattle Meetup" template when posting your issue.
 - [ ] Confirm topic with organizers
 - [ ] Reach out to potential speakers
 
